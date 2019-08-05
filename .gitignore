@@ -1,0 +1,10 @@
+.idea/
+*.pyc
+/.git/
+.DS_Store
+/operations_web/node_modules/
+/operations_web/dist/
+/operations_web/npm-debug.log
+/operations_api/config.py
+/operations_api/test.db
+/venv/
